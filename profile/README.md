@@ -7,7 +7,7 @@
 |<img src = "https://avatars.githubusercontent.com/baebyeolha" width=150px>|<img src = "https://avatars.githubusercontent.com/KimYoungSeok15" width=150px>|<img src = "https://avatars.githubusercontent.com/godltjsdud" width=150px>|
 |[@baebyeolha](https://github.com/baebyeolha)|[@KimYoungSeok15](https://github.com/KimYoungSeok15)|[@godltjsdud](https://github.com/godltjsdud)|
 
-|이승택 | 한다현 | 정희수 |
+| 이승택 | 한다현 | 정희수 |
 |:----:|:----:|:-----:|
 |<img src = "https://avatars.githubusercontent.com/seungtoctoc" width=150px>|<img src = "https://avatars.githubusercontent.com/ekgus9701" width=150px>|<img src = "https://avatars.githubusercontent.com/heeeesoo" width=150px>|
 [@seungtoctoc](https://github.com/seungtoctoc)|[@ekgus9701](https://github.com/ekgus9701)|[@heeeesoo](https://github.com/heeeesoo)|
