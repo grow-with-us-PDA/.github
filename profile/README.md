@@ -1,14 +1,11 @@
 # 내 손 안의 작은 농장, 별하네 농장
-<img src="https://img.shields.io/badge/Java-11-blue"/>
-<img src="https://img.shields.io/badge/Swing-orange"/>
-<img src="https://img.shields.io/badge/IntelliJ-purple"/>
+<img src="https://img.shields.io/badge/Java-11-blue"/> <img src="https://img.shields.io/badge/Swing-orange"/> <img src="https://img.shields.io/badge/IntelliJ-purple"/>
 
 <br/>
 
 > 하고 싶던 귀농, 이제 별하네 농장에서 <br/>
 > 내가 선택한 식물이 잘 자랄 수 있도록 농장 관리를 해주세요
 
-<br/>
 <br/>
 
 ## 키워조
@@ -49,9 +46,11 @@
 <img width="500" src="https://github.com/grow-with-us-PDA/.github/assets/52192706/b1c1a737-55af-4bfa-ad12-2f0622770e97"><br/><br/>
 - 하루에 한번만 각 버튼을 누를 수 있다.
 - 현재 식물 상태에 따라 필요한 버튼이 빨간 색으로 나타난다.
+- 칭찬을 해줘야 현재 가격이 증가한다.
 
 #### [식물이 자랐어요] <br/>
 <img width="500" src="https://github.com/grow-with-us-PDA/.github/assets/52192706/4c16d22d-5ea7-49df-a76c-9204b1705f42"><br/><br/>
+- 날짜가 지나면 식물이 자란다.
 
 #### [식물이 다 컸어요] <br/>
 <img width="500" src="https://github.com/grow-with-us-PDA/.github/assets/52192706/2fa496c7-6eae-4db3-8814-3f243368b98d"><br/><br/>
@@ -72,6 +71,7 @@
 
 
 ## 부록
-[별장 발표자료.pdf](https://github.com/grow-with-us-PDA/.github/files/15004704/default.pdf)
+[[JAVA] 미니프로젝트 - 별장 회고.pdf](https://github.com/grow-with-us-PDA/.github/files/15005240/JAVA.-.pdf)
+
 
 
